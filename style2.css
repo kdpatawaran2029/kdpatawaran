@@ -42,6 +42,16 @@
   font-weight: bold;
   font-family: "Bricolage Grotesque", sans-serif;
 }
+nav a {
+  padding: 8px 14px;
+  border-radius: 6px;
+  transition: 0.3s ease;
+}
+
+nav a:hover {
+  background: #96c9e9;
+  color: white;
+}    
 .menu-btn {
   display: none;
   font-size: 2rem;
